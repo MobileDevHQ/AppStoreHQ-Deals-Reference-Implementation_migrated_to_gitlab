@@ -3,6 +3,10 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="lib/bin/AppStoreHQDealsAPI-0.2-beta.jar"/>
+=======
+	<classpathentry kind="lib" path="lib/bin/AppStoreHQDealsAPI-0.1-beta.jar"/>
+>>>>>>> 779255c5225e75f7ed4f86f24e24b70a82a685c9
 	<classpathentry kind="output" path="bin"/>
 </classpath>
